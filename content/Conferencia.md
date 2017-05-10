@@ -2,6 +2,24 @@ Title: Copyright vs Comunidad
 Date: 2017-05-05 19:00
 Category: Conferencia
 
-"Copyright vs Comunidad"
 
-El copyright fue desarrollado en los tiempos de la imprenta, y fue diseñado para adecuarse al sistema centralizado de copias impuesto por la imprenta en aquella época. Pero en la actualidad, el sistema de copyright se adapta mal a las redes informáticas, y solamente puede ser impuesto mediante severas medidas de fuerza. Las corporaciones globales que se lucran con el copyright están presionando para imponer penalidades cada vez más injustas y para incrementar su poder en materia de copyright, restringiendo al mismo tiempo el acceso del público a la tecnología. Pero si lo que queremos realmente es honorar el único propósito legítimo del copyright –promover el progreso para beneficio del público– entonces tendremos que realizar cambios en la dirección contraria.
+> El copyright fue desarrollado en los tiempos de la imprenta, y fue diseñado para adecuarse al sistema centralizado de copias impuesto por la imprenta en aquella época. Pero en la actualidad, el sistema de copyright se adapta mal a las redes informáticas, y solamente puede ser impuesto mediante severas medidas de fuerza.
+> Las corporaciones globales que se lucran con el copyright están presionando para imponer penalidades cada vez más injustas y para incrementar su poder en materia de copyright, restringiendo al mismo tiempo el acceso del público a la tecnología. Pero si lo que queremos realmente es honorar el único propósito legítimo del copyright –promover el progreso para beneficio del público– entonces tendremos que realizar cambios en la dirección contraria.
+
+## Cuándo?
+
+Lunes 12 de Junio 2017 - desde hs 17:00 a 20:00
+
+## Dónde?
+
+San Salvador de Jujuy, Argentina
+
+## Lugar?
+
+Anfiteatro de la Facultad de Ingenieria de la Universidad Nacional de Jujuy, Calle Italo Palanca 10, San Salvador de Jujuy, Provincia Jujuy, Codigo Postal 4600, Argentina
+[Link ubicación](https://www.openstreetmap.org/way/232853389#map=18/-24.18910/-65.29331&layers=HN)
+![alt text](../theme/images/ubicacion.png "ubicación")
+
+## ENTRADA LIBRE Y GRATUITA 
+
+### No se requiere inscripción previa.
