@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 1
 RELATIVE_URLS = True
 THEME = 'pelican-blueidea'
 # Display the search form
-DISPLAY_SEARCH_FORM (True)
+DISPLAY_SEARCH_FORM = True
