@@ -4,7 +4,7 @@ Category: F.A.Q.
 
 # Preguntas frecuentes acerca de la visita de Richard Stallman a Jujuy.
 
-## ¿Cómo difundir en redes sociales (Facebook, Twitter, Instagram, etc.)?
+## ¿Cómo difundir en redes sociales (Facebook, Twitter, Google+, etc.)?
 
 Si quiere difundir a través de las redes sociales la visita de Richard Stallman, por favor no publique información que no se encuentre en este sitio. 
 Siempre incluya como fuente oficial a este sitio. Esta es una condición que se detalla en http://stallman.org/stallman-compitung
@@ -16,8 +16,7 @@ Se permitirá el ingreso de asistentes hasta completar la capacidad del anfiteat
 
 ## ¿A qué publico está dirigida la charla de Richard Stallman?
 
-Al no tratarse temás técnicos, sino que más bien se refieren a las implicaciones políticas del uso  de software, la conferencia está dirigida a todo el público de distintias áreas de conocimiento, como informática, política, economía, filosofía, arte en sus distintas representaciones, y también a toda persona que tenga interés en cuestiones éticas con
-efectos a la vida diaria.
+Al no tratarse temás técnicos, sino que más bien se refieren a las implicaciones políticas del uso  de software, la conferencia está dirigida a todo el público de distintias áreas de conocimiento, como informática, política, economía, filosofía, arte en sus distintas representaciones, y también a toda persona que tenga interés en cuestiones éticas con efectos a la vida diaria.
 
 ## ¿Se puede adquirir merchandising de GNU el día de la charla?
 

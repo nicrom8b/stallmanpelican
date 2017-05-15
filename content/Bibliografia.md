@@ -26,36 +26,36 @@ Stallman es oficialmente Científico visitante en el MIT.
 
 Free Software, Free Society es el libro de ensayos de Richard Stallman. Su “semi autobiografía”, Free as in Freedom, brinda más información biográfica acerca de su persona.
 
-Richard Stallman ha recibido los siguientes reconocimientos:
+## Richard Stallman ha recibido los siguientes reconocimientos:
 
-1986: Membresía honoraria vitalicia en Chalmers Computer Society.
-1990: MacArthur Foundation Fellowship.
-1990: Galardón Grace Murray Hopper Award de The Association for Computing. Machinery "Por liderar el trabajo para el desarrollo de EMACS (Editing 	Macros)".
-1996: Doctorado Honoris Causa por la Sweden's Royal Institute of Technology.
-1998: Electronic Frontier Foundation's Pioneer award.
-1999: Galardón Yuri Rubinsky Memorial Award.
-2001: Galardón The Takeda	Techno-Entrepreneurship Award de la Social/Economic Well-Being.
-2001: Doctorado Honoris Causa por la University of Glasgow.
-2002: Membresía de la United States National Academy of Engineering.
-2003: Doctorado Honoris Causa por la Vrije Universiteit Brussel.
-2003: Profesorado Honorario por 	la Universidad Nacional de Ingeniería del Perú.
-2004: Doctorado Honoris Causa por la Universidad Nacional de Salta, Argentina.
-2004: Profesorado Honorario por 	la Universidad Tecnológica del Perú.
-2005: Premio Fondazione Pistoletto.
-2007: Profesorado Honorario por la Universidad Inca Garcilaso de la Vega, Perú.
-2007: Primer Premio Internacional Extremadura al Conocimiento Libre.
-2007: Doctorado Honoris Causa por la Universidad de Los Ángeles de Chimbote, Perú.
-2007: Doctorado Honoris Causa por la University of Pavia.
-2008: Doctorado Honoris Causa por la Universidad Nacional de Trujillo, Perú.
-2009: Doctorado Honoris Causa por la Lakehead University, Canadá.
-2011: Doctorado Honoris Causa por la Universidad Nacional de Córdoba, Argentina
-2012: Doctorado Honoris Causa por la Universidad César Vallejo de Trujillo, Perú. 
-2012: Doctorado Honoris Causa por la Universidad Latinoamericana Cima de Tacna, Perú.
-2012: Doctorado Honoris Causa por la Universidad José Faustino Sánchez Carrión, Perú.
-2013: Inclusión en Internet 	Hall of Fame .
-2014: Doctorado Honoris Causa por la Concordia University, Canadá.
-2015: Doctorado Honoris Causa por la Universidad las Américas, Perú. 
-2016: Galardón Software and Systems Award de The Association for Computing Machinery “por el desarrollo de GCC, GNU Compiler Collection”. 	
-2016: Doctorado Honoris Causa por la Université Pierre et Marie Curie, Francia. 
+* 1986: Membresía honoraria vitalicia en Chalmers Computer Society.
+* 1990: MacArthur Foundation Fellowship.
+* 1990: Galardón Grace Murray Hopper Award de The Association for Computing. Machinery "Por liderar el trabajo para el desarrollo de EMACS (Editing 	Macros)".
+* 1996: Doctorado Honoris Causa por la Sweden's Royal Institute of Technology.
+* 1998: Electronic Frontier Foundation's Pioneer award.
+* 1999: Galardón Yuri Rubinsky Memorial Award.
+* 2001: Galardón The Takeda	Techno-Entrepreneurship Award de la Social/Economic Well-Being.
+* 2001: Doctorado Honoris Causa por la University of Glasgow.
+* 2002: Membresía de la United States National Academy of Engineering.
+* 2003: Doctorado Honoris Causa por la Vrije Universiteit Brussel.
+* 2003: Profesorado Honorario por 	la Universidad Nacional de Ingeniería del Perú.
+* 2004: Doctorado Honoris Causa por la Universidad Nacional de Salta, Argentina.
+* 2004: Profesorado Honorario por 	la Universidad Tecnológica del Perú.
+* 2005: Premio Fondazione Pistoletto.
+* 2007: Profesorado Honorario por la Universidad Inca Garcilaso de la Vega, Perú.
+* 2007: Primer Premio Internacional Extremadura al Conocimiento Libre.
+* 2007: Doctorado Honoris Causa por la Universidad de Los Ángeles de Chimbote, Perú.
+* 2007: Doctorado Honoris Causa por la University of Pavia.
+* 2008: Doctorado Honoris Causa por la Universidad Nacional de Trujillo, Perú.
+* 2009: Doctorado Honoris Causa por la Lakehead University, Canadá.
+* 2011: Doctorado Honoris Causa por la Universidad Nacional de Córdoba, Argentina
+* 2012: Doctorado Honoris Causa por la Universidad César Vallejo de Trujillo, Perú. 
+* 2012: Doctorado Honoris Causa por la Universidad Latinoamericana Cima de Tacna, Perú.
+* 2012: Doctorado Honoris Causa por la Universidad José Faustino Sánchez Carrión, Perú.
+* 2013: Inclusión en Internet 	Hall of Fame .
+* 2014: Doctorado Honoris Causa por la Concordia University, Canadá.
+* 2015: Doctorado Honoris Causa por la Universidad las Américas, Perú. 
+* 2016: Galardón Software and Systems Award de The Association for Computing Machinery “por el desarrollo de GCC, GNU Compiler Collection”. 	
+* 2016: Doctorado Honoris Causa por la Université Pierre et Marie Curie, Francia. 
 
 > Esta es una traducción NO OFICIAL de la biografía original en idioma inglés que se encuentra en www.stallman.org
