@@ -58,4 +58,4 @@ Free Software, Free Society es el libro de ensayos de Richard Stallman. Su “se
 * 2016: Galardón Software and Systems Award de The Association for Computing Machinery “por el desarrollo de GCC, GNU Compiler Collection”. 	
 * 2016: Doctorado Honoris Causa por la Université Pierre et Marie Curie, Francia. 
 
-> Esta es una traducción NO OFICIAL de la biografía original en idioma inglés que se encuentra en www.stallman.org
+> Esta es una traducción NO OFICIAL de la biografía original en idioma inglés que se encuentra en [www.stallman.org](https://www.stallman.org) 
