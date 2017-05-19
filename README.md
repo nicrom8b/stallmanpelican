@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este sitio fue desarrollado en marco de la visita del Dr. Richard Matew Stallman a la Provincia de Jujuy y te invitamos a colaborar en el. Lo construimos con [Pelican](http://blog.pelican.com) utilizando para mejor visualización pelican-bluidea. Pelican es desarrollado con tecnologías Python y Jinja2. Puede ser accedido por cualquier navegador web sin necesidad de activar la ejecución de Javascript. Los motivos se explican en [gnu.org/philosophy/javascript-trap.html](gnu.org/philosophy/javascript-trap.html).
+Este sitio fue desarrollado en marco de la visita del Dr. Richard Matew Stallman a la Provincia de Jujuy y te invitamos a colaborar en el. Lo construimos con [Pelican](http://blog.pelican.com) utilizando para mejor visualización pelican-bluidea. Pelican es desarrollado con tecnologías Python y Jinja2. Puede ser accedido por cualquier navegador web sin necesidad de activar la ejecución de Javascript. Los motivos se explican en [gnu.org/philosophy/javascript-trap.html](http://gnu.org/philosophy/javascript-trap.html).
 Si querés crear tu entorno de desarrollo para trabajar con este proyecto, necesitás seguir los siguientes pasos.
 
 ## Instalación del entorno de desarrollo
