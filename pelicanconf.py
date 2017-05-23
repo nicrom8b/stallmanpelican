@@ -38,13 +38,14 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
 	('Inicio', '/category/inicio.html'),
 	('Conferencía', '/category/conferencia.html'),
- 	('F.A.Q.', '/category/faq.html'),
-	('GNU', '/category/gnu.html'),
-	('Software Libre', '/category/software-libre.html')
+	('Biografia', '/category/biografia.html'),
+ 	('GNU', '/category/gnu.html'),
+	('Software Libre', '/category/software-libre.html'),
+	('F.A.Q.', '/category/faq.html')
 	 )
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 THEME = 'pelican-blueidea'
 # Display the search form
-DISPLAY_SEARCH_FORM = True
+DISPLAY_SEARCH_FORM = False

@@ -1,4 +1,4 @@
-Title: Biografía de Richard Matthew Stallman
+Title: Biografía
 Date: 2017-05-05 19:00
 Category: Biografía
 

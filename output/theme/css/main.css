@@ -16,6 +16,10 @@
 @import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
 
 /***** Global *****/
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+}
 /* Body */
 body {
     background: #f2f3f3;
