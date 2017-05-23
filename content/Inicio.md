@@ -4,6 +4,6 @@ Category: Inicio
 save_as: index.html
 
 
-<img src="../theme/images/Flyer.png" srcset="image-2x.png 2x" align="middle" class="responsive-image"/>
+<img src="../theme/images/Flyer.png" align="middle" class="responsive-image"/>
 
-> Flyer hacho con el editor de imagenes vectoriales  Inkscape, la imagen de fondo fue editada y retocada con Gimp, las fuentes usadas son Franzo, Datalegreya y Bebas Nue, con respecto a las licencias de las fuentes [aquí](https://fontlibrary.org/en/guidebook/font_licensing) tenemos un resumen. 
+> Flyer realizado con el editor de imagenes vectoriales  Inkscape, la imagen de fondo fue editada y retocada con Gimp, las fuentes usadas son Franzo, Datalegreya y Bebas Nue, con respecto a las licencias de las fuentes [aquí](https://fontlibrary.org/en/guidebook/font_licensing) tenemos un resumen. 
