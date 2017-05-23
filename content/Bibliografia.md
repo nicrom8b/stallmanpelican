@@ -4,7 +4,7 @@ Category: Biografía
 
 Richard Matthew Stallman es desarrollador de software y activista de la libertad del software. Nacido en 1953, asistió a *Harvard University* desde 1970 y se graduó con el título de *Bachelor of Arts in physics*. Desde Septiembre de 1974 hasta Junio de 1975 fue estudiante de postgrado de física en el MIT.
 
-![alt text](../theme/images/rmsfoto.png "RMS")
+<img src="../theme/images/rmsfoto.png" align="middle" class="responsive-image"/>
 
 Trabajó en el laboratorio de Inteligencia Artificial del MIT desde 1971 hasta 1984, aprendiendo y desarrollando sistemas operativos, a excepción del año en que se convirtió en estudiante de postgrado. Escribió el primer editor de texto llamado Emacs por el año 1976 y desarrolló la técnica de Inteligencia Artificial **backtracking por dependencia directa**, también conocida como **mantenimiento de la verdad**.
 

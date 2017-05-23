@@ -27,3 +27,4 @@ Si. Se invita a todos los asistentes a colaborar económicamente a través de la
 stallmanenjujuy.org está construído con pelican ([github.com/getpelican/pelican](https://github.com/getpelican/pelican)  ), utilizando para mejor visualización pelican-bluidea.Pelican es desarrollado con tecnologías Python y Jinja2.
 Puede ser accedido por cualquier navegador web sin necesidad de tener activada la ejecución de javascript. Los motivos se explican en [gnu.org/philosophy/javascript-trap.html](http://gnu.org/philosophy/javascript-trap.html)  
 La licencia de todos estos proyectos y del sitio es GPL.
+Código fuente del sitio: [github.com/jorgex9/stallmanpelican](https://github.com/jorgex9/stallmanpelican)  
