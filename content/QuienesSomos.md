@@ -13,11 +13,15 @@ Todos pertenemos a distitos grupos, asociaciones e independientes que siempre es
 * Oscar Guerrero - @ruarr
 * Sebastián Madrid - @openjuy
 * Ramiro Martinez - @ramix
+* Jota Perez - @yojota
 * Plino
 * Rafael
-* Jota Perez - @yojota
+
 
 ## Contacto
+
+Telefono Celular: **154802323** (falta definir)
+Correo Electronico: **info@stallmanenjujuy.org** (falta configurar)
 
 ##Biografía de los Integrantes
 
@@ -25,6 +29,6 @@ Todos pertenemos a distitos grupos, asociaciones e independientes que siempre es
 | Foto de perfil | Biografia | Contacto Personal|
 |----------------|:----------:|:---------:|
 | aca la imagen| Breve Biografía | Contacto Personal |
-|![alt text](https://pbs.twimg.com/profile_images/864971571286482948/COH4LW7e.jpg "Logo Title Text 1")| Ingenieiro en computación. Sysadmin. Entusiasta Seguridad Informática. Activista del Software Libre | https://www.linkedin.com/in/juan-francisco-perez-b0759632/ |
+|<IMG SRC="https://pbs.twimg.com/profile_images/864971571286482948/COH4LW7e.jpg" WIDTH=90 HEIGHT=90 ALT="Obra de K. Haring"> | Ingenieiro en computación. Sysadmin. Entusiasta Seguridad Informática. Activista del Software Libre | yojota@gmail.com |
 |...|......|....|
 
