@@ -5,6 +5,23 @@
 Este sitio fue desarrollado en marco de la visita del Dr. Richard Matew Stallman a la Provincia de Jujuy y te invitamos a colaborar en el. Lo construimos con [Pelican](https://blog.getpelican.com/) utilizando para mejor visualización pelican-bluidea. Pelican es desarrollado con tecnologías Python y Jinja2. Puede ser accedido por cualquier navegador web sin necesidad de activar la ejecución de Javascript. Los motivos se explican en [gnu.org/philosophy/javascript-trap.html](http://gnu.org/philosophy/javascript-trap.html).
 Si querés crear tu entorno de desarrollo para trabajar con este proyecto, necesitás seguir los siguientes pasos.
 
+#### Instalacion de pip (Requerimientos Anteriores)
+
+**pip** es un sistema de gestion de paquetes utilizado para instalar y administrar paquetes de software desarrollados en python.
+Para poder utilizarlo necesitamos instalarlo
+
+```
+# wget https://bootstrap.pypa.io/get-pip.py
+```
+```
+# python get-pip.py
+```
+**GIT** es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código.
+
+```
+# apt-get install git-core
+```
+
 ## Instalación del entorno de desarrollo
 
 El primer paso es instalar el paquete `virtaulenv` en tu computadora. Este te permitirá crear *entornos virtuales* para la aplicación, es decir, permite crear un directorio independiente que contenga una copia del binario de Python y directorio de paquetes, además de instalar/actualizar paquetes requeridos por tu aplicacion sin necesidad de modificar la instancia global de paquetes Python. Para más detalles, te recomendamos consultar [virtuaenv site](https://virtualenv.pypa.io/en/stable/)
