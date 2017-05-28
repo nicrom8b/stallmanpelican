@@ -1,5 +1,5 @@
 Title: Doctorado Honoris Causa - Unju
-Date: 2017-27-05 20:00
+Date: 2017-05-27 20:00
 Category: dhc
 
 RESOLUCIÓN C.S. N° 0110-17
