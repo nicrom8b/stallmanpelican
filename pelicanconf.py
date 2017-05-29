@@ -35,6 +35,7 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
 	('Inicio', '/category/inicio.html'),
 	('Conferencía', '/category/conferencia.html'),
+	('D.H.C.', '/category/dhc.html'),
 	('Biografia', '/category/biografia.html'),
  	('GNU', '/category/gnu.html'),
 	('Software Libre', '/category/software-libre.html'),
