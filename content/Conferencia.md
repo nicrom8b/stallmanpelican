@@ -18,4 +18,9 @@ Anfiteatro de la Facultad de Ingeniería de la Universidad Nacional de Jujuy. Ca
 
 ## ENTRADA LIBRE Y GRATUITA 
 
-### No se requiere inscripción previa.
+### La charla no será técnica y NO se requiere inscripción previa.
+
+## Invitamos a los asistentes a traer dinero el día del evento para colaborar con la Free Software Foundation, mediante:
+* Compra de merchandising de GNU.
+* Registro como miembros de Free Software Foundation.
+* Participación en la subasta de un pequeño ñu.

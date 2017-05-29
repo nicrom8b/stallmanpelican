@@ -33,7 +33,7 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-	('Inicio', '/category/inicio.html'),
+	('Inicio', '/index.html'),
 	('Conferencía', '/category/conferencia.html'),
 	('D.H.C.', '/category/dhc.html'),
 	('Biografia', '/category/biografia.html'),
