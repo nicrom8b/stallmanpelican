@@ -33,11 +33,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-	('Inicio', '/index.html'),
 	('Conferencía', '/category/conferencia.html'),
 	('D.H.C.', '/category/dhc.html'),
 	('Biografia', '/category/biografia.html'),
- 	('GNU', '/category/gnu.html'),
+ 	('Pre-Stallman', '/category/pre-stallman.html'),
 	('Software Libre', '/category/software-libre.html'),
 	('F.A.Q.', '/category/faq.html')
 	 )
