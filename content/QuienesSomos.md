@@ -15,14 +15,12 @@ Todos pertenemos a distitos grupos, asociaciones e independientes que siempre es
 * Ramiro Martinez - @ramix
 * Pedro Subia - @pedros
 * Jota Perez - @yojota
-* Plino
-* Rafael
 
 
 ## Contacto
 
-Telefono Celular: **154802323** (falta definir)
-Correo Electronico: **info@stallmanenjujuy.org** (falta configurar)
+Telefono Celular: **154802323** (Jota Perez) - **155821941** (Jorge Riera) - **154084214** (Veronica Ovando)
+Correo Electronico: **rmsjujuy@googlegroups.com**
 
 ##Biografía de los Integrantes
 
@@ -37,6 +35,6 @@ Correo Electronico: **info@stallmanenjujuy.org** (falta configurar)
 |<IMG SRC="https://lh3.googleusercontent.com/QdRnnqfv2ufNKUfOQANvXzC6-l1qL5pYOZetAMRXvYlhgy77rKEq1gRBqJc52gfGGH69yDVH_MpfmQw=w1920-h960-rw" WIDTH=90 HEIGHT=80 ALT="Obra de K. Haring"> | Sebastian Madrid | openjuy@gmail.com |
 |<IMG SRC="https://lh5.googleusercontent.com/BtG-Ilx8PzWNhqzzF-dQObtK9WFmeGPoHghvMuGjeUGn_9lQ14Lq-MTKNdl66BDU6XjiG9Cw_ETyC1M=w1920-h960" WIDTH=80 HEIGHT=90 ALT="Obra de K. Haring"> | Ramiro Martiez | ramix@gmail.com |
 |<IMG SRC="https://lh3.googleusercontent.com/FqRqUI45ecgC_IDAeVdohEwsNpzMp4_B5tneaxmUWg7zq4yWSauOl3tPJuMkyAzH34BpV5Bj7rwy_5o=w1920-h960" WIDTH=90 HEIGHT=90 ALT="Obra de K. Haring"> | Pedro Subia | pedro_subia@gmail.com |
-|<IMG SRC="https://pbs.twimg.com/profile_images/864971571286482948/COH4LW7e.jpg" WIDTH=90 HEIGHT=90 ALT="Obra de K. Haring"> | Ingenieiro en computación. Sysadmin. Entusiasta Seguridad Informática. Activista del Software Libre | yojota@gmail.com - 154802323|
+|<IMG SRC="https://pbs.twimg.com/profile_images/864971571286482948/COH4LW7e.jpg" WIDTH=90 HEIGHT=90 ALT="Obra de K. Haring"> | Juan Francisco Perez | yojota@gmail.com - 154802323|
 |...|......|....|
 
