@@ -21,8 +21,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Free Software Foundation', 'https://my.fsf.org/civicrm/profile/create?gid=496&reset=1'),)
-         
+LINKS = (('Free Software Foundation', 'https://my.fsf.org/civicrm/profile/create?gid=496&reset=1'),
+		  ('¿Quiénes somos?', '/category/quienes-somos.html'),)
+
 # Social widget
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
@@ -33,9 +34,9 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
-	('Conferencía', '/category/conferencia.html'),
+	('Conferencia', '/category/conferencia.html'),
 	('D.H.C.', '/category/dhc.html'),
-	('Biografia', '/category/biografia.html'),
+	('Biografía', '/category/biografia.html'),
  	('Pre-Stallman', '/category/pre-stallman.html'),
 	('Software Libre', '/category/software-libre.html'),
 	('F.A.Q.', '/category/faq.html')
